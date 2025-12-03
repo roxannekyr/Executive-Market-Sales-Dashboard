@@ -24,11 +24,8 @@ Visuals: Utilized Matrix tables, KPI cards, Map visuals, Bar charts, and Gauge c
 - <b>Power Query</b>
 - <b>DAX</b>
 
-<h2>Power BI Dashboard walk-through:</h2>
+<h2>Market Sales Dashboard:</h2>
 
-Sales KPI Summary: <br/>
-<img src="https://i.imgur.com/pRDzNV3.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+<img src="https://i.imgur.com/XcZGmD6.png" height="80%" width="80%" alt="Market Sales Dashboard"/>
 <br />
 <br />
-
-
