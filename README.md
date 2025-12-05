@@ -1,10 +1,6 @@
 <h1>Executive Market Sales Dashboard</h1>
 
 <h2>Description</h2>
-🛒 Retail Sales & Returns Analysis
-
-A business intelligence solution built for a global retailer to track KPIs and regional performance. This project demonstrates end-to-end Power BI development, from data modeling to visualization.
-
 Technical Highlights:<br />
 
 Advanced DAX Measures: Implemented complex measures for Month-over-Month (MoM) growth calculations, profit margins, and conditional formatting rules.
